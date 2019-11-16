@@ -1,0 +1,15 @@
+{
+  "name": "yetanotherportfolio",
+  "version": "1.0.0",
+  "description": "Yet Another Portfolio",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-personal_user2:cealcuadrado/yetanotherportfolio.git"
+  },
+  "author": "cealcuadrado",
+  "license": "ISC"
+}
